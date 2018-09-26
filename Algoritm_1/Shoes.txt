@@ -1,0 +1,4 @@
+Nike,1400,42,white
+Adidas,1800,40,black
+Reebok,1000,41,red
+Puma,1200,43,blue
