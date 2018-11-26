@@ -1,0 +1,1 @@
+Відповідь: [birthcertificate, nationalpassport, militarycertificate, foreignpassport, creditcard, bankstatement, hotel, visa]
